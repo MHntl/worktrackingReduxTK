@@ -1,6 +1,6 @@
 # Job Tracking Redux ToolKit
 
-<h1>NJob Tracking Redux ToolKit Application</h1>
+<h1>Job Tracking Redux ToolKit Application</h1>
 
 <h3>This libraries have been used -react-redux, @reduxjs/toolkit|| -axios ||-uuid ||  -axios ||  -json-server || -react-icons|| -sass|| -react-toastify||</h3>
 
